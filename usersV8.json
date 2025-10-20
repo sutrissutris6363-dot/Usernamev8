@@ -1,11 +1,3 @@
 {
-  "users": {
-    "7498140887": {
-      "name": "Rayhan",
-      "username": "Rayhan12",
-      "id": "7498140887",
-      "role": "developer",
-      "created": "2025-10-20T10:10:00.000Z"
-    }
-  }
+  "users": {}
 }
