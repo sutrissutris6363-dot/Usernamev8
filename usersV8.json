@@ -1,11 +1,5 @@
 {
-  "users": {
-    "7498140887": {
-      "name": "rehan",
-      "username": "rehan48",
-      "id": "7498140887",
-      "role": "resseller",
-      "created": "2025-10-20T15:52:32.706Z"
-    }
-  }
+  "usernames": [
+    "Rayhan"
+  ]
 }
